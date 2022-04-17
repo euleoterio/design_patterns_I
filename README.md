@@ -1,1 +1,3 @@
-# design_patterns_I
+# DESIGN PATTERNS EM JAVA I
+
+Curso Alura INTRODUÇÃO ÀS BOAS PRÁTICAS DE PROGRAMAÇÃO.
